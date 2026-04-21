@@ -37,16 +37,16 @@ The system captures finger movements using flex sensors and processes the data t
 
 ## Project Demonstration
 
-![Glove Demo](your-glove-image.jpg)
-![Glove Demo](your-glove-image.jpg)
+![Glove image front](gloves_front.png)
+![Glove image back](gloves_back.png)
 
 ## 🔌 Circuit Diagram
 
 ![Circuit](circuit.jpg)
 
 ## 🎥 Demo Videos
-- [Demo Video 1](your-video-link.mp4)  
-- [Demo Video 2](your-video-link.mp4)  
+- [Demo Video 1](signtalkvideo1.mp4)  
+- [Demo Video 2](signtalkvideo2.mp4)  
 
 ## 📄 Research Work
 This project is supported by a detailed research study covering design, methodology, and system implementation.
