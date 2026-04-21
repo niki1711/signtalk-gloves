@@ -70,6 +70,10 @@ The system is designed as a low-cost, portable solution for real-world assistive
 
 ## Code
 Basic implementation for gesture data reading and processing is included in the `code/` folder.
+This code demonstrates:
+- Reading flex sensor values  
+- Applying threshold-based gesture detection  
+- Mapping gestures to audio output using DFPlayer Mini  
 
 ## Learnings
 - Gesture data processing using sensors  
