@@ -8,6 +8,7 @@ The system captures finger movements using flex sensors and processes the data t
 - Captures gesture data using flex sensors  
 - Converts hand gestures into text output  
 - Real-time text-to-speech communication  
+- Real-time response to hand movements  
 - Portable and assistive communication system  
 
 ## System Architecture
@@ -21,7 +22,8 @@ The system captures finger movements using flex sensors and processes the data t
 2. Sensor values are read and processed  
 3. Threshold-based logic identifies gestures  
 4. Gestures are mapped to predefined text  
-5. Output is converted into speech using speaker module  
+5. Output is converted into speech using speaker module
+6. System requires calibration to ensure accurate gesture detection
 
 ## Components Used
 - Flex Sensors  
@@ -33,7 +35,7 @@ The system captures finger movements using flex sensors and processes the data t
 
 ## Tech Stack
 - Arduino  
-- Python (for logic understanding / testing)
+- Python (basic signal/data processing and logic simulation)
 
 ## Project Demonstration
 
@@ -59,6 +61,7 @@ Key highlights from the research:
 
 ## Description
 This project demonstrates a real-time assistive communication system that translates hand gestures into speech. It focuses on sensor-based input processing, embedded system integration, and real-time output generation.
+The system is designed as a low-cost, portable solution for real-world assistive communication.
 
 ## Applications
 - Assistive technology for speech- and hearing-impaired individuals  
